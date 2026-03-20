@@ -240,7 +240,7 @@ export default function Page() {
               </div>
               <div className="overlay-copy">
                 <h3>Essentials</h3>
-                <p className="overlay-note">Bacibaci essentials</p>
+                <p className="overlay-note">Baci Baci essentials</p>
               </div>
             </article>
           </div>
