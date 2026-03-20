@@ -13,8 +13,8 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Blessing Bassey",
-  description: "Blessing Bassey personal brand site",
+  title: "Blessing ‘ Dion ‘ Bassey",
+  description: "Blessing ‘ Dion ‘ Bassey personal brand site",
 };
 
 export default function RootLayout({

@@ -136,8 +136,8 @@ export default function Page() {
   return (
     <div className="site-shell">
       <header className="site-header" id="top">
-        <a className="brand-mark" href="#hero" aria-label="Blessing Bassey home">
-          <img src="/logo.jpeg" alt="Blessing Bassey logo" />
+        <a className="brand-mark" href="#hero" aria-label="Blessing ‘ Dion ‘ Bassey home">
+          <img src="/logo.jpeg" alt="Blessing ‘ Dion ‘ Bassey logo" />
         </a>
         <button
           className="menu-toggle"
@@ -163,10 +163,10 @@ export default function Page() {
       <main>
         <section className="hero section" id="hero">
           <div className="hero-visual reveal reveal-image">
-            <img src="/images/ceo/portrait.jpg" alt="Blessing Bassey portrait" />
+            <img src="/images/ceo/portrait.jpg" alt="Blessing ‘ Dion ‘ Bassey portrait" />
           </div>
           <div className="hero-copy reveal delayed-text">
-            <p className="eyebrow">Blessing Bassey</p>
+            <p className="eyebrow">Blessing ‘ Dion ‘ Bassey</p>
             <h1>Entrepreneur. Designer. Educator.</h1>
             <p className="hero-text">
               Celebrating artistry, craftsmanship, and timeless elegance in fashion.
@@ -188,46 +188,21 @@ export default function Page() {
               <p className="eyebrow">About</p>
               <h2>Meet Blessing Bassey</h2>
               <p className="body-text max-text">
-                Blessing Bassey is a Nigerian fashion designer, entrepreneur, and educator. Since
-                launching Dion Baci in 2017, her work has grown into a multi-dimensional fashion
-                house spanning bridal couture, ready-to-wear, and fashion education.
-              </p>
-              <p className="body-text support-text">
-                Her world spans{" "}
-                <a
-                  href="https://dionbaci.com"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-brand-link"
-                >
-                  Dion Baci
-                </a>{" "}
-                couture, refined ready-to-wear through{" "}
-                <a
-                  href="https://bacibaci.vercel.app"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-brand-link"
-                >
-                  Baci
-                </a>
-                , and everyday essentials through{" "}
-                <a
-                  href="https://bacibaci.vercel.app"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-brand-link"
-                >
-                  Bacibaci
-                </a>
-                .
+                Blessing Bassey, founder of Dion Baci Limited, is a Visionary Nigerian
+                Entrepreneur, Fashion designer, Consultant and Educator. From launching Dion Baci
+                in 2017 during her NYSC, to creating bridal couture, ready-to-wear lines, and
+                empowering aspiring designers through her fashion academy, Blessing’s work reflects
+                her passion for aesthetics and timeless design.
               </p>
               <a className="text-link" href="#contact">
                 Read Full Story
               </a>
             </div>
             <div className="about-visual reveal">
-              <img src="/images/media/feature.jpg" alt="Blessing Bassey featured media portrait" />
+              <img
+                src="/images/media/feature.jpg"
+                alt="Blessing ‘ Dion ‘ Bassey featured media portrait"
+              />
             </div>
           </div>
         </section>
@@ -439,10 +414,10 @@ export default function Page() {
       </main>
 
       <footer className="site-footer">
-        <div className="footer-grid stagger-group">
-          <div className="footer-column reveal">
-            <p className="footer-title">Brand</p>
-            <h3>Blessing Bassey</h3>
+          <div className="footer-grid stagger-group">
+            <div className="footer-column reveal">
+              <p className="footer-title">Brand</p>
+            <h3>Blessing ‘ Dion ‘ Bassey</h3>
             <p>Founder, Dion Baci</p>
             <p>Timeless design shaped with intention.</p>
           </div>
@@ -474,7 +449,7 @@ export default function Page() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>&copy; Blessing Bassey. All rights reserved.</p>
+          <p>&copy; Blessing ‘ Dion ‘ Bassey. All rights reserved.</p>
         </div>
       </footer>
     </div>
