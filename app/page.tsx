@@ -163,7 +163,7 @@ export default function Page() {
       <main>
         <section className="hero section" id="hero">
           <div className="hero-visual reveal reveal-image">
-            <img src="/images/ceo/portrait.jpg" alt="Blessing Bassey portrait" />
+            <img src="/images/media/feature.jpg" alt="Blessing Bassey featured media portrait" />
           </div>
           <div className="hero-copy reveal delayed-text">
             <p className="eyebrow">Blessing Bassey</p>
