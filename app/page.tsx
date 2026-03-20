@@ -137,7 +137,7 @@ export default function Page() {
     <div className="site-shell">
       <header className="site-header" id="top">
         <a className="brand-mark" href="#hero" aria-label="Blessing Bassey home">
-          <img src="/assets/logo.jpeg" alt="Blessing Bassey logo" />
+          <img src="/logo.jpeg" alt="Blessing Bassey logo" />
         </a>
         <button
           className="menu-toggle"
